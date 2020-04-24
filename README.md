@@ -1,1 +1,1 @@
-<h2>A simple project with which you can make a 2D game and learn how to practice C# language principles like Variables, Arrays and Functions, Loops, Monobehaviour, Coroutines and Enumerations. Applying Box & Circle Colliders, implement a simple Score System with Canvas etc.<h2/>
+<h2>Making a 2D game called "Bomber" while practicing C# language principles like Variables, Arrays and Functions, Loops, Monobehaviour, Coroutines and Enumerations. Applying Box & Circle Colliders, implementing a simple Score System with Canvas etc. <h2/>
